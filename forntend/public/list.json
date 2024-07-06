@@ -1,0 +1,70 @@
+[
+    {
+        "id":1,
+        "name":"The Immortals of Meluha",
+        "author_name": "Amish Tripathi ",
+        "image": "..\\..\\public\\booklist.png"
+    },
+        {
+        "id":2,
+        "name":"Five Point Someone",
+        "author_name": "Chetan Bhagat",
+        "image":"..\\..\\public\\booklist.png"
+    },
+    {
+        "id":3,
+        "name":"2 States:The Story of My Marriage",
+        "author_name": "Chetan Bhagat",
+        "image": "..\\..\\public\\booklist.png"
+    },
+    {
+        "id":4,
+        "name":"The White Tige",
+        "author_name": "Aravind Adiga ",
+        "image": "..\\..\\public\\booklist.png"
+    },
+    {
+        "id":5,
+        "name":"One Night @ the Call Center ",
+        "author_name": "Chetan Bhagat",
+        "image": "..\\..\\public\\booklist.png"
+    },
+    {
+        "id":6,
+        "name":"Half Girlfriend",
+        "author_name": "Chetan Bhagat ",
+        "image": "..\\..\\public\\booklist.png"
+    },
+    {
+        "id":7,
+        "name":"Chanakya's Chant",
+        "author_name": "Amish Tripathi ",
+        "image": "..\\..\\public\\booklist.png"
+    },
+
+    {
+        "id":8,
+        "name":"The Krishna Key",
+        "author_name": "Ashwin Sanghi",
+        "image": "..\\..\\public\\booklist.png"
+    },
+    {
+        "id":9,
+        "name":"A Fine Balance",
+        "author_name": " Rohinton Mistry",
+        "image": "..\\..\\public\\booklist.png"
+    } ,
+    {
+        "id":10,
+        "name":"  The 3 Mistakes of My Life",
+        "author_name": "Chetan Bhagat",
+        "image": "..\\..\\public\\booklist.png"
+    } ,
+    {
+        "id":11,
+        "name":"One Indian Girl",
+        "author_name": "Chetan Bhagat",
+        "image": "..\\..\\public\\booklist.png"
+    } 
+]
+  
